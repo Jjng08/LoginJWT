@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ByEpi\\source\\LoginJWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26E183-F507-4D5C-AA35-CC8F79CE34FC}|LoginJWT.csproj|c:\\users\\byepi\\source\\loginjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F26E183-F507-4D5C-AA35-CC8F79CE34FC}|LoginJWT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26E183-F507-4D5C-AA35-CC8F79CE34FC}|LoginJWT.csproj|c:\\users\\byepi\\source\\loginjwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F26E183-F507-4D5C-AA35-CC8F79CE34FC}|LoginJWT.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26E183-F507-4D5C-AA35-CC8F79CE34FC}|LoginJWT.csproj|c:\\users\\byepi\\source\\loginjwt\\custom\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F26E183-F507-4D5C-AA35-CC8F79CE34FC}|LoginJWT.csproj|solutionrelative:custom\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26E183-F507-4D5C-AA35-CC8F79CE34FC}|LoginJWT.csproj|c:\\users\\byepi\\source\\loginjwt\\models\\dbpruebacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F26E183-F507-4D5C-AA35-CC8F79CE34FC}|LoginJWT.csproj|solutionrelative:models\\dbpruebacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ByEpi\\source\\LoginJWT\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ByEpi\\source\\LoginJWT\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:55:39.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\ByEpi\\source\\LoginJWT\\Custom\\Utilities.cs",
+              "RelativeDocumentMoniker": "Custom\\Utilities.cs",
+              "ToolTip": "C:\\Users\\ByEpi\\source\\LoginJWT\\Custom\\Utilities.cs",
+              "RelativeToolTip": "Custom\\Utilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:32:16.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ByEpi\\source\\LoginJWT\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ByEpi\\source\\LoginJWT\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T19:23:20.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbPruebaContext.cs",
+              "DocumentMoniker": "C:\\Users\\ByEpi\\source\\LoginJWT\\Models\\DbPruebaContext.cs",
+              "RelativeDocumentMoniker": "Models\\DbPruebaContext.cs",
+              "ToolTip": "C:\\Users\\ByEpi\\source\\LoginJWT\\Models\\DbPruebaContext.cs",
+              "RelativeToolTip": "Models\\DbPruebaContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:19:02.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
